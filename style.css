@@ -22,8 +22,8 @@ li {
 .boxassignment {
   width: 400px;
   height: 100px;
-  background-color: #677d95;
-  border: 6px double #e6e8de;
+  background-color: #e6e8de;
+  border: 6px double #677d95;
   margin: 10px 20px 0 10px;
   padding: 20px 50px;
 }
