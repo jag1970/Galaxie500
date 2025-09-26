@@ -1,29 +1,29 @@
 body {
-  background-color:#5d677c;
+  background-color:#a86474;
   font-family: sans-serif;
   margin: 20px 50px
 }
 p {
-    color:#bab5b1;
+    color:#362940;
     font-size: 18px;
 }
 h1 {
-    color:#4c3b2a;
+    color:#362940;
     font-size: 36px;
 }
 h2 {
-    color:#4c3b2a;
+    color:#362940;
     font-size: 24px;
 }
 li {
-    color:#bab5b1;
+    color:#e5b5be;
     font-size: 18px;
 }
 .boxassignment {
   width: 400px;
   height: 100px;
-  background-color: #444444;
-  border: 6px double white;
+  background-color: #677d95;
+  border: 6px double #e6e8de;
   margin: 10px 20px 0 10px;
   padding: 20px 50px;
 }
