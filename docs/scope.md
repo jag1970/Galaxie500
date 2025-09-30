@@ -15,7 +15,7 @@
 4. A README.md file that details information about the website and what it will offer to audience.
 
 ## Exclusions
-* Limit any functionality or features that go beyond personal knowledge base to date. This is for the prevention of spending too much time away from obtaining key deliverables. Limit website to no more than 2 pages. For example, there will not be any interaction programming with the use of JavaScript.
+* Limit any functionality or features that go beyond personal knowledge base to date. This is for the prevention of spending too much time away from obtaining key deliverables. For example, there will not be any interaction programming with the use of JavaScript. Limit website to no more than 2 pages. 
 
 ## Priorities
 * List of priorities in order of importance.
