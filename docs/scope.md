@@ -3,19 +3,19 @@
 ## Project Name: Visiting Japan website 
 
 ## Project purpose
-* Successfully create a website about personal travel to Japan that will demonstrate and display a knowledge base to date in computing applications, including a basic understanding of HTML and CSS. Additionally, it will exhibit concepts learned about project scoping and planning from start to close. 
+* Successfully create a draft website about personal travel to Japan with experience and places visited that will demonstrate and display a knowledge base to date in computing applications, including a basic understanding of HTML and CSS. Additionally, it will exhibit concepts learned about project scoping and planning from start to close. 
 
 ## Description
-* Utilize GitHub to create a repository and a two-page website about personal travel to Japan. Develop the website with basic HTML and CSS using concepts learned to date. Create a scope statement for planning and estimating deliverables and priorities. 
+* Utilize GitHub to create a repository and a two-page website about personal travel to Japan. Develop the website with basic HTML and CSS using concepts learned to date. Create a scope statement for planning and estimating deliverables and priorities. Deliver a complete project plan that will showcase experience in project management and can be added to portfolio of knowledge.
 
 ## Desired Results
 1. Creation of a live website with 2 pages about personal travels to Japan. The website will use basic knowledge of HTML and CSS.
 2. Color palate and design choices will be a personal decision but based on theme.
 3. Creation of a GitHub repository for the website that houses documentation information 
-4. A README.md file that details information about the website 
+4. A README.md file that details information about the website and what it will offer to audience.
 
 ## Exclusions
-* Limit any functionality or features that go beyond personal knowledge base to date. This is for the prevention of spending too much time away from obtaining key deliverables. Limit website to no more than 2 pages.
+* Limit any functionality or features that go beyond personal knowledge base to date. This is for the prevention of spending too much time away from obtaining key deliverables. Limit website to no more than 2 pages. For example, there will not be any interaction programming with the use of JavaScript.
 
 ## Priorities
 * List of priorities in order of importance.
