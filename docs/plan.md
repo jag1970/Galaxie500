@@ -9,7 +9,7 @@
 | 1.1.1 Draft final README file | 1 hr |
 |1.1.2 Create 2nd page for website & link | 2.5 hrs |
 | 1.1.3 Add and link single style.css file | 2 hrs|
-| 1.1.4 Create rough draft of live website  | 3.5 hrs |
+| 1.1.4 Create rough functional live 2 pg. website  | 3.5 hrs |
 | 1.1.5 Create draft of retrospective file | 1 hr |
 
 ## Risk Analysis
